@@ -1,8 +1,18 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.joikkk.twa",
-        "sha256_cert_fingerprints": ["39:80:45:FB:BA:9B:DC:D1:9F:FB:3C:FD:3F:16:37:0F:08:11:12:DF:C7:2B:22:2A:D9:C3:DC:C1:26:32:51:AB"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.joikkk.twa",
+      "sha256_cert_fingerprints": ["39:80:45:FB:BA:9B:DC:D1:9F:FB:3C:FD:3F:16:37:0F:08:11:12:DF:C7:2B:22:2A:D9:C3:DC:C1:26:32:51:AB"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.camvis_apps.twa",
+      "sha256_cert_fingerprints": ["39:80:45:FB:BA:9B:DC:D1:9F:FB:3C:FD:3F:16:37:0F:08:11:12:DF:C7:2B:22:2A:D9:C3:DC:C1:26:32:51:AB"]
+    }
+  }
+]
