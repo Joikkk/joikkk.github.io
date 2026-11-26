@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.joikkk.twa",
-        "sha256_cert_fingerprints": ["9C:E3:7B:77:92:D3:AE:DA:E9:69:13:2F:89:DA:4D:8B:8F:4B:17:CF:16:DC:CA:42:60:02:C3:CE:18:A1:60:AC"]
+        "sha256_cert_fingerprints": ["39:80:45:FB:BA:9B:DC:D1:9F:FB:3C:FD:3F:16:37:0F:08:11:12:DF:C7:2B:22:2A:D9:C3:DC:C1:26:32:51:AB"]
       }
     }]
